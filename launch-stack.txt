@@ -1,2 +1,2 @@
-https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/create/review?stackName=sagemaker-vpc-infra&templateURL=https://github.com/sagy/amazon-sagemaker-studio-vpc-blog/blob/main/templates/sm-studio-vpc-infra.template.yaml
+https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/create/review?stackName=sagemaker-vpc-infra&templateURL=https://cf-fmsp-sagemaker.s3.amazonaws.com/sm-studio-vpc-infra.template.yaml
 
